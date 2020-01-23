@@ -1,4 +1,4 @@
-package collection.list;
+package list;
 
 import java.util.Stack;
 public class Stack_Func {
